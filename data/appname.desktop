@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=App Name
+GenericName=App Name
+Comment=An Elementary OS app template
+Categories=Utility;
+Exec=com.github.yourgithubusername.appreponame
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Template;Example;
